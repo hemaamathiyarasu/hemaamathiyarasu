@@ -1,15 +1,31 @@
 
-# Hi there, I'm Hemaa Mathiyarasu! 👋
+<div align="center">
 
-### AI & Data Science | AI Agents | RAG | LangGraph
+<h1>Hi 👋, I'm Hemaa Mathiyarasu</h1>
 
-I'm passionate about building practical AI solutions, exploring intelligent agent workflows, and solving real-world technical challenges.
+<h3>AI & Data Science | AI Agents | RAG | LangGraph</h3>
 
-📍 Chennai, India
+<p>
+Building intelligent AI solutions and exploring
+real-world engineering challenges.
+</p>
 
-🌐 [Explore My Portfolio](https://hemaamathiyarasu.netlify.app/)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=hemaamathiyarasu&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
+</p>
+
+<a href="https://hemaamathiyarasu.netlify.app/">
+  <img src="https://img.shields.io/badge/Explore_My_Portfolio-6C63FF?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hemaamathiyarasu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
+
 
 ## 🚀 About Me
 
