@@ -5,190 +5,129 @@
 
 ### AI & Data Systems Engineer
 
-**Enterprise AI · Graph Data · Intelligent Systems · Observability**
-
-Engineering practical AI solutions, reliable data workflows,
-and intelligent systems for real-world challenges.
+`Enterprise AI` · `Graph Data` · `Intelligent Systems` · `Observability`
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_PORTFOLIO-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://hemaamathiyarasu.netlify.app/)
-[![Projects](https://img.shields.io/badge/VIEW_PROJECTS-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemaamathiyarasu?tab=repositories)
+Building intelligent solutions and reliable engineering systems.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://hemaamathiyarasu.netlify.app/)
+[![Projects](https://img.shields.io/badge/Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemaamathiyarasu?tab=repositories)
 
 </div>
 
 ---
 
-## 01 / About Me
+## 👋 Hello, World!
 
-I'm **Hemaa Mathiyarasu**, an Artificial Intelligence
-& Data Science graduate interested in designing,
-building, and improving intelligent software systems.
+I'm Hemaa, an AI & Data Science graduate working across
+enterprise AI, graph data systems, and infrastructure
+observability.
 
-My engineering experience includes working with
-enterprise AI solutions, graph-based data workflows,
-and infrastructure monitoring.
-
-I focus on understanding how systems work,
-solving practical problems, and building solutions
-that are reliable, maintainable, and useful.
-
-- Location: Chennai, India
-- Focus: Enterprise AI & Intelligent Systems
-- Interests: AI Agents, RAG, LLMs & Graph Databases
-- Approach: Learn, Build, Improve
+I enjoy solving engineering problems, understanding
+system architecture, and making complex systems easier
+to use and maintain.
 
 ---
 
-## 02 / Engineering Focus
+## ⚡ Engineering Domains
 
-| Enterprise AI | Graph Data | System Reliability |
-|:---|:---|:---|
-| Intelligent information retrieval | Graph databases | Infrastructure monitoring |
-| AI-powered workflows | Cypher queries | Container observability |
-| RAG and AI agents | Data relationships | Alerting and diagnostics |
-| Enterprise information systems | Data quality validation | System health monitoring |
-
----
-
-## 03 / Selected Engineering Work
-
-### 01 — AI-Powered PLM Chatbot
-
-**Enterprise AI | Intelligent Information Retrieval**
-
-An AI-driven solution focused on making enterprise
-Product Lifecycle Management (PLM) information
-more accessible through intelligent interactions.
-
-**Engineering Focus**
-
-- AI-powered information retrieval
-- Enterprise information accessibility
-- Intelligent workflow exploration
-- Retrieval-based information systems
-- Understanding engineering data relationships
-
-**Domain:** Enterprise AI and PLM Systems
+| 🤖 Enterprise AI | 🔗 Graph Systems | 📊 Observability |
+|:---:|:---:|:---:|
+| Intelligent retrieval | Graph data workflows | Container monitoring |
+| PLM information systems | Neo4j & Cypher | Grafana & Prometheus |
+| AI-assisted workflows | Data validation | Alerting & diagnostics |
 
 ---
 
-### 02 — Neo4j Graph Data Workflows
+## 🚀 Featured Engineering Work
 
-**Graph Databases | Data Integration | Validation**
+### 🤖 AI-Powered PLM Chatbot
 
-Working with graph-based PLM information,
-data loading processes, and relationship integrity.
+Making enterprise engineering information easier to
+access through AI-powered interactions and retrieval.
 
-**Engineering Contributions**
-
-- Cypher query development and execution
-- CSV-based graph data loading
-- Node and relationship validation
-- Data consistency verification
-- Duplicate identification and handling
-- Graph data troubleshooting
-
-**Technology:** Neo4j, Cypher, CSV
+`Enterprise AI` `PLM` `Information Retrieval`
 
 ---
 
-### 03 — Docker Monitoring & Observability
+### 🔗 Neo4j Graph Data Workflows
 
-**Infrastructure | Monitoring | Reliability**
+Graph data loading, relationship validation,
+and Cypher-based data operations for PLM systems.
 
-Working on monitoring solutions to improve
-visibility into Docker container health
-and operational failures.
-
-**Engineering Contributions**
-
-- Docker container state monitoring
-- Grafana dashboard configuration
-- Prometheus metrics integration
-- Container failure detection
-- Monitoring alerts and notifications
-- Infrastructure troubleshooting
-
-**Technologies:** Docker, Grafana, Prometheus
+`Neo4j` `Cypher` `Data Validation`
 
 ---
 
-## 04 / Technical Exposure
+### 📊 Docker Monitoring & Observability
 
-Technologies and concepts encountered through
-engineering work and project exploration.
+Monitoring Docker container health using metrics,
+dashboards, and automated alert notifications.
 
-**Data & Graph Systems**
+`Docker` `Prometheus` `Grafana`
 
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=flat-square&logo=neo4j&logoColor=white)
-![Graph Databases](https://img.shields.io/badge/Graph_Databases-334155?style=flat-square)
+---
+
+## 🏗️ Engineering Snapshot
+
+**Container Monitoring — Simplified Workflow**
+
+```mermaid
+flowchart LR
+    A["Docker Containers"]
+    B["Metrics Exporter"]
+    C["Prometheus"]
+    D["Grafana"]
+    E["Alert Notifications"]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+```
+
+A simplified view of the container monitoring workflow.
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Graph & Data Systems**
+
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![Cypher](https://img.shields.io/badge/Cypher-2563EB?style=flat-square)
 
-**Monitoring & Infrastructure**
+**Infrastructure & Observability**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-**AI Concepts & Areas of Interest**
+**AI Areas of Interest**
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-475569?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0F766E?style=flat-square)
 
 ---
 
-## 05 / Engineering Approach
+## 🌐 Explore My Work
 
-I believe good engineering is not just about
-writing code, but about creating solutions
-that are understandable, reliable, and scalable.
+**Personal Portfolio Website**
 
-My approach emphasizes:
+A collection of my professional experience,
+engineering projects, and technical work.
 
-- Understanding the problem before designing a solution
-- Keeping systems simple and maintainable
-- Validating data and system behavior
-- Monitoring reliability and identifying failures
-- Documenting technical decisions
-- Continuously improving engineering knowledge
-
----
-
-## 06 / Featured Portfolio
-
-### Personal Portfolio Website
-
-A responsive portfolio highlighting my
-professional background, engineering experience,
-selected projects, and technical interests.
-
-**Built With:** HTML, CSS, JavaScript
-
-[![Live Website](https://img.shields.io/badge/Live_Website-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://hemaamathiyarasu.netlify.app/)
-[![Source Code](https://img.shields.io/badge/Source_Code-21262D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemaamathiyarasu/hemaa-portfolio)
-
----
-
-## 07 / Connect With Me
-
-I'm interested in connecting with people
-working on AI, engineering, intelligent
-systems, and innovative technology.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://hemaamathiyarasu.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemaamathiyarasu)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-7C3AED?style=for-the-badge&logo=netlify&logoColor=white)](https://hemaamathiyarasu.netlify.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemaamathiyarasu/hemaa-portfolio)
 
 ---
 
 <div align="center">
 
-### Engineering solutions. Learning continuously. Building with purpose.
-
-**HEMAA MATHIYARASU**
-
-*AI · Data Systems · Engineering*
+**Engineering intelligent systems. Building with purpose.**
 
 </div>
