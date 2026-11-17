@@ -58,6 +58,10 @@ Graph data loading, relationship validation, and Cypher-based data operations fo
 
 `Neo4j` `Cypher` `Data Validation`
 
+<br>
+
+[![View Neo4j Project](https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemaamathiyarasu/neo4j-graph-data-workflows)
+
 ---
 
 ### 📊 Docker Monitoring & Observability
